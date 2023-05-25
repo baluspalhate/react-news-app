@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Cyclone Gabrielle: New Zealand braces for storm after record floods",
+      "description": "Residents are on edge as parts of the North Island prepare for more severe weather.",
+      "url": "http://www.bbc.co.uk/news/world-asia-64608532",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C0C/production/_128600198_gettyimages-1246706263.jpg",
+      "publishedAt": "2023-02-11T09:52:21.3822067Z",
+      "content": "Preparations are underway in New Zealand for a severe storm that threatens to hit parts of the country already damaged by deadly flooding. \r\nCyclone Gabrielle is expected to hit the country's North I… [+1877 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Turkey-Syria earthquake latest: Survivors found after 115 hours as death toll passes 24,000",
+      "description": "Remarkable tales of survival are still emerging five days after the earthquake struck Turkey and Syria.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-64565412",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-02-11T08:07:27.3971049Z",
+      "content": "UN lorries carrying aid into rebel-held north-west Syria can currently use only one route, through the Bab al-Hawa crossing over the Turkish border, where the road has been badly damaged by Monday's … [+1409 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "John Tory: Toronto mayor quits after affair with ex-staffer during pandemic",
+      "description": "John Tory said the relationship was \"a serious error in judgement\" after it was revealed by a newspaper.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64606152",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E541/production/_128598685_gettyimages-1241440005.jpg",
+      "publishedAt": "2023-02-11T04:52:20.4441581Z",
+      "content": "The mayor of Canadian city Toronto has resigned unexpectedly after admitting to a relationship with a former staff member.\r\nJohn Tory's announcement came shortly after the Toronto Star newspaper repo… [+1178 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hippos, pandas and owls pick the Super Bowl winner",
+      "description": "Zoo animals everywhere were busy picking between the Eagles and Chiefs ahead of the big game.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64606027",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6265/production/_128598152_p0f2g8wq.jpg",
+      "publishedAt": "2023-02-11T04:07:18.8293582Z",
+      "content": "Hippos, pandas and owls pick the Super Bowl winner. Video, 00:01:20Hippos, pandas and owls pick the Super Bowl winner"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The US murder trial obsessing true crime tourists",
+      "description": "A wealthy lawyer from a prominent South Carolina family is accused of killing his wife and son.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64564568",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136E5/production/_128598597_675761a63a19e7163136cebb17f2ec9604e82c32.jpg",
+      "publishedAt": "2023-02-11T02:22:21.8505783Z",
+      "content": "Each morning, at around 6am, the crowd starts to gather, a loose line forming outside the Colleton County Courthouse for the murder trial of Alex Murdaugh.\r\nMr Murdaugh, scion of a legal dynasty, has… [+4992 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Turkey earthquake failures leave Erdogan looking vulnerable",
+      "description": "The biggest earthquake since 1939 raises questions over whether such a tragedy could have been avoided.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64594349",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/185C3/production/_128597799_erdg2.jpg",
+      "publishedAt": "2023-02-11T01:22:23.3046718Z",
+      "content": "Turkey's most devastating earthquake since 1939 has raised big questions about whether such a large-scale tragedy could have been avoided and whether President Erdogan's government could have done mo… [+8732 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "15 homes, just three survivors - the community lost under one Turkish apartment block",
+      "description": "A window with a butterfly print curtain is the first clue in a story about loss in a devastating quake.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-64597007",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11CAF/production/_128597827_index_promo_v3_wgirl-nc.png",
+      "publishedAt": "2023-02-11T00:22:17.2571603Z",
+      "content": "On an indistinct mound of rubble in southern Turkey is an uncannily well-preserved window frame with a butterfly print curtain that flutters in the cold wind.\r\n\"It's Ceyda's room.\" \r\nBefore the earth… [+8743 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Florida expands governor's power to move migrants",
+      "description": "Democrats says the relocations are \"human trafficking\", but Republicans say it's \"humanitarian\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64603667",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BEF/production/_128597808_desantis.jpg",
+      "publishedAt": "2023-02-11T00:07:17.8264896Z",
+      "content": "Florida Governor Ron DeSantis has been granted power to relocate undocumented migrants anywhere in the US under a bill passed by the state legislature.\r\nThe measure was approved by both Republican-co… [+3210 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "High-altitude object shot down over Alaska, US says",
+      "description": "A high-altitude object has been shot down over Alaska, White House says, days after Chinese spy balloon row",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64605447",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-02-10T19:52:18.5698437Z",
+      "content": "A \"high-altitude object\" has been shot down over Alaska in the past hour, the White House has said.\r\nSpokesman John Kirby said the object was \"the size of a small car\" and was over a sparsely populat… [+800 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Federal agents search Mike Pence's home - reports",
+      "description": "People familiar with the matter tell US media the search is consensual.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64499785",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09C3/production/_128499420_gettyimages-1441927474.jpg",
+      "publishedAt": "2023-02-10T17:22:19.1163389Z",
+      "content": "The FBI is currently searching former US vice-president Mike Pence's home in Indiana for classified material, US media report.\r\nIt follows disclosures by Mr Pence's attorneys that they found \"a small… [+2728 chars]"
+    }
+  ]
+}
